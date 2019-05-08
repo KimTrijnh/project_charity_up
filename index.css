@@ -1,5 +1,5 @@
 .footer-bs {
-    background: #27293D;
+    background: rgb(14, 24, 31);
     color: white;
     padding: 3rem 0 6rem 0; 
 }
@@ -7,4 +7,16 @@
 .bg-green {
    background: #1E1E2E;
    color : white;
+}
+
+.header-bg {
+    width: 100%;
+    height: 400px;
+    background-image: url('/img/something-1600x980-e1543862966969.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text-black {
+    color: #0E181F
 }
